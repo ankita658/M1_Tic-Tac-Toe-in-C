@@ -1,4 +1,22 @@
-## Data flow diagram
-![baseic](https://user-images.githubusercontent.com/81344818/160775024-7e13bccf-fd6d-48c7-8015-a68c7365cd46.jpg)
+# Design
+
+## High Level Design 
+
+### Behavioral Usecase Diagram
+
+![Architecture](https://github.com/ArnoldKevinDesouza/Tic-Tac-Toe/blob/main/6_Media/usecase%20HL.png?raw=true)
+
+### Structural Diagram
+
+![Architecture](https://github.com/ArnoldKevinDesouza/Tic-Tac-Toe/blob/main/6_Media/high%20level%20structural.png?raw=true)
+
+## Low Level Design 
+
+### Behavioral Usecase Diagram
+
+![Architecture](https://github.com/ArnoldKevinDesouza/Tic-Tac-Toe/blob/main/6_Media/structural%20HL.png?raw=true)
 
 
+### Structural Diagram
+
+![Architecture](https://github.com/ArnoldKevinDesouza/Tic-Tac-Toe/blob/main/6_Media/structural%20high%20level.png?raw=true)
