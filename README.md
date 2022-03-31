@@ -13,17 +13,18 @@
 ## Benefits
 Tic-tac-toe Game offers a few benefits. Here are just a few of them:
 
-### Good Sportsmanship
-Like any game, tic tac toe also teaches a person to accept the defeat as well as ackowledge the win.
-
-### Prepares for more complex games
-It prepares a person for more complex games because they have to think of multiple things at one time.
-
 ### Developement of Coordination
 Tic-tac-toe helps develop coordination, fine motor skills and visual skills.
 
 ### Mannerism
 It helps one to learn how to follow rules and take turns.
+
+
+### Good Sportsmanship
+Like any game, tic tac toe also teaches a person to accept the defeat as well as ackowledge the win.
+
+### Prepares for more complex games
+It prepares a person for more complex games because they have to think of multiple things at one time.
 
 ### Concentration
 It can help to improve a person's concentration as well as strategic thinking
